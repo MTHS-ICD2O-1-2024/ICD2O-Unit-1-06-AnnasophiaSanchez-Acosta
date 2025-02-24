@@ -1,12 +1,9 @@
 # ICS2O
 
-[![Mr Coxall's Super Linter](https://github.com/<OWNER>/<REPOSITORY>/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/<OWNER>/<REPOSITORY>/actions)
+[![Mr Coxall's Super Linter](https://github.com/MTHS-ICD2O-1-2024/ICD2O-Unit-1-06-AnnasophiaSanchez-Acosta/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/MTHS-ICD2O-1-2024/ICD2O-Unit-1-06-AnnasophiaSanchez-Acosta/actions)
 
-[![Deploy Pages](https://github.com/<OWNER>/<REPOSITORY>/workflows/Deploy%20Pages/badge.svg)](https://github.com/<OWNER>/<REPOSITORY>/actions)
+This site can be found at: [https://icd2o-1-teh.type-code.cloud/~annasophia.sanchez-acosta/ICD2O-1/Unit-1/ICD2O-Unit-1-06-AnnasophiaSanchez-Acosta/](https://icd2o-1-teh.type-code.cloud/~annasophia.sanchez-acosta/ICD2O-1/Unit-1/ICD2O-Unit-1-06-AnnasophiaSanchez-Acosta/)
 
-This site can be found at: [https://<OWNER>.github.io/<REPOSITORY>](https://<OWNER>.github.io/<REPOSITORY>)
-
----
 
 **NOTES ON INITIAL LOAD:**
 - remember to goto on the menu bar:
