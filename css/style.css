@@ -2,3 +2,24 @@
 * Created on: Sep 2020
 * This file contains the CSS for index.html
 */
+.mdl-ripple {
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 15px;
+}
+
+.mdl-ripple {
+  background:#000;
+  opacity:0.001;
+}
+
+body {
+  background-color:azure;
+}
+
+p{
+  color:white;
+  font-family: monospace;
+  font-size: medium;
+  padding-top: 5px;
+}
